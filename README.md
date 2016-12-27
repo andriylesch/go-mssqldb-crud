@@ -103,11 +103,9 @@ And execute method :
 ```go
 
 func main() {
-
 	fmt.Println("------ GetUsers ------------")
 	resultDb := managers.GetUsers()
-  fmt.Println(resultDb[0].ToString())
-  
+  	fmt.Println(resultDb[0].ToString())
 }
 
 ```
