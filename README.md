@@ -1,6 +1,6 @@
 # go-mssqldb-crud
 
-
+How to make friends GO and MSSQL
 
 ## Install
 
